@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap");
+
+/* Apply Space Grotesk font */
+body {
+  --h1-font: "Space Grotesk", serif;
+  --h2-font: "Space Grotesk", serif;
+  --h3-font: "Space Grotesk", serif;
+  --h4-font: "Space Grotesk", serif;
+  --h5-font: "Space Grotesk", serif;
+  --h6-font: "Space Grotesk", serif;
+}
+
+.markdown-preview-view h1 {
+}
+body:not(.is-phone):not(.inline-title-divider-remove)
+  .inline-title:not(.mk-inline-title) {
+  border-bottom: 2px solid #004080;
+}
+
+@media print {
+  .weather-widget-container {
+    display: block !important; /* Ensure widget is visible in print */
+    width: 100%; /* Adjust width for print layout */
+    height: auto;
+  }
+  iframe {
+    display: block !important; /* If the widget is embedded in an iframe */
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Style bold text */
+.markdown-preview-view strong,
+.cm-s-obsidian span.cm-strong {
+  font-weight: bold; /* Keeps it bold */
+  font-style: italic;
+}
+
+h1 {
+  line-height: 1.8;
+}

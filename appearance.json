@@ -1,0 +1,15 @@
+{
+  "theme": "moonstone",
+  "accentColor": "",
+  "cssTheme": "Border",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "enabledCssSnippets": [
+    "embed",
+    "kanban",
+    "context",
+    "callouts"
+  ],
+  "nativeMenus": false,
+  "monospaceFontFamily": "Cascadia Code"
+}

@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "6a279ca0b9902d03",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2ad68251f99a1dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02f9f9767a29a847",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Resource/People/Kathryn Barriault.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kathryn Barriault"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a45a92a3622efe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "69cd3b20eca6736e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aaefe230b2318fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3a8370abc7967d12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8fef7c948c01bdb3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5039367675781
+  },
+  "right": {
+    "id": "83b7b14d5ff94873",
+    "type": "split",
+    "children": [
+      {
+        "id": "81b15ddbc4286b76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "568914882430db18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "46b1cdfb09329e0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "50d3870df46353b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7102141b550ccdbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 Resource/+Home.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of +Home"
+            }
+          },
+          {
+            "id": "e280909072e02ad5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "02f9f9767a29a847",
+  "lastOpenFiles": [
+    "00 Projects/01 Compliance/00 Meetings/2025-01-17 Follow Up-Check in with Jarrett and Christian.md",
+    "02 Resource/People/Kathryn Barriault.md",
+    "02 Resource/People/G .md",
+    "02 Resource/People/RT.md",
+    "00 Projects/01 Compliance/00 Meetings/2025-01-17 Check in with Jarrett and Christian.md",
+    "01 Area/02 Common/00 Dailys/2025/Jan/2025-01-18.md",
+    "02 Resource/👥 People MOC.md",
+    "02 Resource/🗣 Meetings MOC.md",
+    "02 Resource/+Home.md",
+    "04 Templates/Daily Note Template.md",
+    "04 Templates/Data.md",
+    "02 Resource/People/Rosemary Turner.md",
+    "02 Resource/People/Margaret Dwyer.md",
+    "02 Resource/People/Kenda Meeks.md",
+    "02 Resource/People/Katie Voss.md",
+    "02 Resource/People/Jeff Krogsgard.md",
+    "02 Resource/People/Jarrett Frazier.md",
+    "02 Resource/People/Holly Lowe.md",
+    "02 Resource/People/Graham Miles.md",
+    "02 Resource/People/Christian Pitts.md",
+    "02 Resource/People/Bubba Willings.md",
+    "00 Projects/01 Compliance/00 Email MOC.md",
+    "RE_ Compliance Report 1-17-25.msg",
+    "01 Area/02 Common/00 Dailys/2025/Jan/2025-01-17.md",
+    "04 Templates/Untitled.md",
+    "01 Area/02 Common/00 Dailys/2025/Jan/2025-01-16.md",
+    "02 Resource/Read Me.md",
+    "FW_ New documents uploaded for MHB Paving Inc on TrustLayer.msg",
+    "00 Projects/01 Compliance/01 Emails",
+    "00 Projects/01 Compliance/00 Meetings",
+    "00 Projects/00 CIRM/00 Meetings",
+    "00 Projects/01 Compliance",
+    "Extras/People",
+    "Extras",
+    "02 Resource/People",
+    "02 Resource",
+    "05 Templates/Untitled.canvas",
+    "00 Projects/00 CIRM/Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

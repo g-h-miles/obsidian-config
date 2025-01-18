@@ -1,0 +1,24 @@
+{
+  "triggerSymbol": "@",
+  "suggestLinksToNonExistingNotes": true,
+  "relativeTopFolders": [
+    {
+      "VaultPath": "02 Resource/People",
+      "Title": "People"
+    },
+    {
+      "VaultPath": "",
+      "Title": ""
+    }
+  ],
+  "includeFoldersInSuggestions": false,
+  "folderSuggestionSettings": {
+    "folderSuggestionMode": "always",
+    "folderSuggestionTrigger": "/"
+  },
+  "enableRelativePaths": false,
+  "templateTriggerSymbol": "$",
+  "defaultTemplaterTemplate": "04 Templates/Person.md",
+  "quickAddTriggerSymbol": "€",
+  "defaultQuickAddTemplate": ""
+}

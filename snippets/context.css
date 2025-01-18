@@ -1,0 +1,15 @@
+/* Context card view */
+.mk-cards-grid .mk-list-group > ul {
+  justify-content: center;
+}
+.mk-cards-grid .mk-list-group > ul > .mk-list-item {
+  box-shadow: none;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-m);
+}
+.mk-cards-grid .mk-list-group > ul > .mk-list-item > .mk-file-preview {
+  margin-bottom: 0px;
+}
+.mk-cards-grid .mk-list-group > ul > .mk-list-item > .mk-list-content {
+  border-top: 1px dashed var(--background-modifier-border);
+}

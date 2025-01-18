@@ -1,0 +1,48 @@
+/* hide embed title */
+.markdown-embed-title {
+  display: none;
+}
+
+/* use alt text as title */
+.internal-embed::before {
+  content: attr(alt);
+  font-size: 1.3em;
+  font-weight: 600;
+  color: #7e08c2;
+}
+
+.is-live-preview .cm-tag-_,
+a[href^="#_"] {
+  display: none;
+}
+
+table:has([href="#_hide_header"]) {
+  border: 2px solid #004080;
+  border-radius: 8px;
+  margin-top: 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  border-collapse: separate !important;
+
+  & thead {
+    display: none;
+  }
+
+  & tbody {
+    margin-top: 0;
+  }
+
+  & tr:first-child td {
+    padding-top: 8px;
+  }
+
+  & tr td:first-child {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+  }
+
+  & tr td:last-child {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+  }
+}
